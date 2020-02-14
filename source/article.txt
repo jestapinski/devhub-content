@@ -114,7 +114,7 @@ h1 Article Title
 
       Object.keys(colorMap).map(colorName => (
           <Swatch
-              key={colorName}
+              key={colorName} 
               colorName={colorName}
               colorValue={colorMap[colorName]}
           >
