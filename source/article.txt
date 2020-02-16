@@ -81,7 +81,7 @@ h1 Article Title
 
    If your content has prerequisites, specify them in this section.
    Indicating what type of content the content is can let us do more on
-   the front end with clever rendering bits.
+   the front end with clever rendering bits. 
 
 .. content::
 
