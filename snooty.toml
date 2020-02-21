@@ -7,4 +7,4 @@ package-name-org = "mongodb-org"
 pgp-version = "{+version+}"
 
 [page_groups]
-"testArticleSeries" = ["/article", "/quickstart/nodejs-how-to-connect-to-your-database"]
+"testArticleSeries" = ["article", "quickstart/nodejs-how-to-connect-to-your-database"]
