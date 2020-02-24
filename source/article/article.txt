@@ -47,7 +47,7 @@
 
 .. related::
 
-   * :doc: /quickstart/nodejs-how-to-connect-to-your-database.txt
+   * :doc: `/quickstart/nodejs-how-to-connect-to-your-database`
 
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
