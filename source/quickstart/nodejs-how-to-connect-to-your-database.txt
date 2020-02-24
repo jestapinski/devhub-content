@@ -50,7 +50,7 @@
 
 .. related::
 
-   * :doc: article
+   * :doc: article.txt
 
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
