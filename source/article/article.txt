@@ -47,7 +47,7 @@
 
 .. related::
 
-   * ```Foo```
+   * ``:doc:` quickstart/nodejs-how-to-connect-to-your-database```
 
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
