@@ -47,9 +47,7 @@
 
 .. related::
 
-   * ``list of related articles``
-   * ``:doc:`/path/to/article```
-   * ``:doc:`/path/to/other/article```
+   * :doc:`/quickstart/nodejs-how-to-connect-to-your-database.txt`
 
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT

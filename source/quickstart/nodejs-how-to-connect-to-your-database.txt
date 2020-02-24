@@ -50,8 +50,7 @@
 
 .. related::
 
-   * How to connect to a MongoDB database using Node.js
-   * How to create MongoDB documents using Node.js
+   * :doc:`/article.txt`
 
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
