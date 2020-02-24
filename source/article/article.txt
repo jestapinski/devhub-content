@@ -45,10 +45,6 @@
 
 .. atf-image:: /img/heros/how-to-write-an-article.png
 
-.. related::
-
-   * :doc:`quickstart/nodejs-how-to-connect-to-your-database`
-
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
 .. ---------------------------------------------------------------
