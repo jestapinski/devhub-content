@@ -188,5 +188,5 @@ Node.js & MongoDB - How to Get Connected to Your Database
 
 .. summary::
 
-   Conclude or summarize your article.
+   Conclude or summarize your article here.
 
