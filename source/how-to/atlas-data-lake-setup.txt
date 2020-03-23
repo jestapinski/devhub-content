@@ -58,7 +58,7 @@ MongoDB Atlas Data Lake Setup
    Setting Up the AWS CLI
    ----------------------
 
-   .. chart::
+   .. charts::
       :url: https://charts.mongodb.com/charts-coronavirus-lwlvn
       :id: 6f921f0c-a1ee-4106-839c-412fad3c64e7
       :autorefresh: 3600
