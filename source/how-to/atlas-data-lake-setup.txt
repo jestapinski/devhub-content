@@ -58,6 +58,13 @@ MongoDB Atlas Data Lake Setup
    Setting Up the AWS CLI
    ----------------------
 
+   :url: https://charts.mongodb.com/charts-coronavirus-lwlvn
+   :id: 6f921f0c-a1ee-4106-839c-412fad3c64e7
+   :autorefresh: 3600
+   :theme: dark
+   :width: 760
+   :height: 570
+
    The first thing we’ll need to create is an Identity and Access Management (IAM) user. From the AWS Management Console, I’ll search for IAM. 
    
    .. image:: /images/how-to/atlas-data-lake-setup/AWS_Management_Console.png
