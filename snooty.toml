@@ -7,4 +7,5 @@ package-name-org = "mongodb-org"
 pgp-version = "{+version+}"
 
 [page_groups]
-"testArticleSeries" = ["article", "quickstart/nodejs-how-to-connect-to-your-database"]
+"Java Tutorials" = ["/quickstart/java-setup-crud-operations", "/quickstart/java-mapping-pojos", "/quickstart/java-aggregation-pipeline", "/quickstart/java-change-streams"]
+"BSON Tutorials" = ["/quickstart/bson-data-types-decimal128", "/quickstart/bson-data-types-objectid"]
