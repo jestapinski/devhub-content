@@ -38,6 +38,12 @@
 
 .. atf-image:: /images/atf-images/generic/purple.png
 
+.. og::
+    :url: http://developer.mongodb.com/article/active-active-application-architectures
+    :type: article
+    :title: Active-Active Application Architectures
+    :image: http://developer.mongodb.com/images/atf-images/generic/purple.png
+
 .. ---------------------------------------------------------------
 .. ARTICLE CONTENT
 .. ---------------------------------------------------------------
